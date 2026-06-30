@@ -1,0 +1,22 @@
+cat > .gitignore << 'EOF'
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# env files
+.env
+.env.local
+.env.production
+
+# build
+dist/
+build/
+
+# misc
+.DS_Store
+*.log
+.vercel
+EOF
