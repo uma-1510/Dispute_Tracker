@@ -1,8 +1,8 @@
 # AR Dispute Resolution Agent
 
-A working preview of Stuut's upcoming Disputes module — built to show what autonomous dispute handling could look like end-to-end.
+A working preview of Disputes module — built to show what autonomous dispute handling could look like end-to-end.
 
-**Live demo → [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)**
+**Live demo → [https://ar-dispute-tracker.vercel.app/](https://your-vercel-url.vercel.app)**
 
 ---
 
