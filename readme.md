@@ -60,9 +60,5 @@ Open `http://localhost:3000`
 
 ---
 
-## Why I built this
-
-Stuut lists Disputes and Credits as coming soon. I wanted to understand the problem deeply enough to build a working version of it — this is the result.
-
 Built by Uma · MS CS @ Clark University  
 [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)
